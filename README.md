@@ -1,2 +1,3 @@
 # python_training
-some repo for barantsev's course
+Some Repo for Alexei Barantsev's Course
+
